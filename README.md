@@ -24,13 +24,19 @@ The workflow starts with implementing Word2Vec (Skip-gram with Negative Sampling
 
 ## Repository Structure
 
-.
+
 ├── HW2 (9).ipynb
+
 ├── report.tex
+
 ├── tsne_glove.png
+
 ├── text8.zip
+
 ├── glove.6B.100d.txt
+
 └── README.md
+
 
 
 ## Part 1: Word2Vec from Scratch

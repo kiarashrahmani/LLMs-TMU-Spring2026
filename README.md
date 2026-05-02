@@ -22,23 +22,6 @@ The workflow starts with implementing Word2Vec (Skip-gram with Negative Sampling
 - Study the effect of out-of-vocabulary (OOV) words and approximate a FastText-like solution
 
 
-## Repository Structure
-
-
-├── HW2 (9).ipynb
-
-├── report.tex
-
-├── tsne_glove.png
-
-├── text8.zip
-
-├── glove.6B.100d.txt
-
-└── README.md
-
-
-
 ## Part 1: Word2Vec from Scratch
 
 Model: Skip-gram with Negative Sampling  
